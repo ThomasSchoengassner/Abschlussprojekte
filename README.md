@@ -1,7 +1,7 @@
 # Abschlussprojekte
 Im Rahmen der Weiterbildung bei Alfatraining
 
-Zum Abschluss der Einheit <b> Big Data Analytics <b> analysierten wir den Datensatz von Airbnb New York <br>
+Zum Abschluss der Einheit <b> Big Data Analytics </b> analysierten wir den Datensatz von Airbnb New York <br>
 Das Projektteam bestand einschließlich mir aus 5 Personen und folgende Files wurden ins Repository geladen <br>
 <ul>
   <li> AirBnb_New_York.ipynb <br>
